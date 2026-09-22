@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e7d0739818a9dfeb4687a26",
+  "owner": "vruqtumfy",
+  "repo": "page-1f53fb2d1fb78ba87a289894",
+  "title": "HaoBa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1f53fb2d1fb78ba87a289894",
+      "a": "HaoBa",
+      "b": "机场官网线路发布页",
+      "entity": "HaoBa",
+      "brand": "HaoBa",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a63dd61e684b2f20f596d9f376434b299876038e10ddf7eb6004561dc78455a6",
+      "content": {
+        "primary_entity": "HaoBa",
+        "keyword1": "HaoBa",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备对代理客户端的需求不同，HaoBa 的订阅配置需结合系统类型选择对应工具。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅，就能开始使用。",
+          "AI_CLOSING_TITLE": "轻松接入 HaoBa",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版和团队版覆盖全节点原生流媒体解锁与高带宽线路，适合多设备家庭或小型团队。按年付可享更优惠折算价格，选择套餐后依照客户端文档配置订阅即可。",
+          "AI_FAQ_ANSWER_1": "HaoBa 目前包含基础版、旗舰版和团队版，月付价格分别为 ¥15、¥35 和 ¥85，对应的每月流量为 100GB、300GB 和 1000GB。按年付则分别为 ¥150、¥350 和 ¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多人共用或设备较多时，选择旗舰版或团队版更能满足需求。",
+          "AI_FAQ_ANSWER_3": "HaoBa 采用订阅制配置，订单生效后会获得订阅信息。将订阅链接导入所选客户端，更新节点列表即可开始使用，具体步骤可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版包含全节点原生流媒体解锁，基础版提供基础流媒体解锁。不同平台的流媒体服务效果可能存在差异，建议根据常用服务选择套餐。",
+          "AI_FAQ_ANSWER_5": "团队版提供 VIP 专属高带宽节点、支持企业定制路由和专属客户经理服务，适合有固定多人和高带宽需求的小型团队或企业用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "HaoBa 有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何配置订阅使用 HaoBa？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁支持哪些套餐？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的用户？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路特性出发，快速找到适合自己的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合轻度使用或初次尝试；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备在线，配备 VIP 专属高带宽节点与企业定制路由，适合多人协作场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按月或按年付费，年付价格分别为 ¥150、¥350 和 ¥850，使用周期越长单月折算越低。",
+          "AI_FEATURE_TITLE_1": "按用量匹配套餐",
+          "AI_FEATURE_TITLE_2": "多设备并发支持",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置的三个步骤。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HaoBa 提供多档海外加速订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版与团队版覆盖全节点流媒体解锁、IPLC 专线优化和高带宽线路，按年付价格更实惠。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选配",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速优化",
+          "AI_PLANS_INTRO": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按年付分别低至 ¥150、¥350 和 ¥850。根据设备数量与流量需求选择，订阅周期越长折算越划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版和团队版之间选择一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备系统和客户端的要求，确认需要使用的平台。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "HaoBa 多档订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jomaa.cn",
+    "host": "jomaa.cn"
+  },
+  "file_hashes": {
+    "index.html": "593de6631ed1eba3a060511d8d7414e025acebc0c9ce8a9d388db9c6ee35694b",
+    "sitemap.xml": "09bdf2dcbab586512d9b28d0e66d0311c0e1c676e5f42020a886417b51cce06a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "28fb54f16ccc3d3dd45fa408d68d1148c77ef2419798b9ccbec60b5ad4507715",
+    "robots.txt": "7b5548f444d6d2c6b2b3499fa589fad42ca2d98702436339f7dc72e55aab10f1",
+    "2ef9edf41ea4bfaf6e576b0f43c87771.txt": "05051ed1e11d6d540753de2d4473891cc900c0fbf5105de1d454e1f6b7661359"
+  },
+  "revision": "f72a5257c693a88cf4124fcad341e7694c31a2904e18dfa5ac2698cec34b320e"
+}
